@@ -1,1 +1,1 @@
-# choicenet_imitation
+# Application of ChoiceNet to imitation learning task
